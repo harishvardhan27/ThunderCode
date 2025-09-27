@@ -1,0 +1,9 @@
+fastapi==0.115.12
+uvicorn==0.22.0
+streamlit==1.45.1
+python-dotenv==1.0.0
+google-generativeai==0.8.5
+langgraph==0.2.60
+langchain-core==0.3.29
+requests==2.32.3
+pydantic==2.11.1
